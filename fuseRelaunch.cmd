@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/EpicZero/lab4rc5dec/RC5_isim_beh.exe" -prj "C:/Users/EpicZero/lab4rc5dec/RC5_beh.prj" "work.RC5" 
